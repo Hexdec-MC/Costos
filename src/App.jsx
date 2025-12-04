@@ -157,10 +157,6 @@ const LoginScreen = ({ onLogin, users }) => {
         </form>
         
         <div className="mt-6 text-center text-xs text-gray-400 space-y-1">
-          <p>Roles Demo:</p>
-          <p>Admin: admin@costopro.com / 123</p>
-          <p>Usuario: user@costopro.com / 123</p>
-          <p>Visor: visor@costopro.com / 123</p>
         </div>
       </Card>
     </div>
